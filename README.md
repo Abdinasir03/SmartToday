@@ -6,6 +6,9 @@ Full-stack e-learning platform connecting tutors and students with personalized 
 
 SmartToday is a web-based platform that streamlines the connection between tutors and students, featuring real-time matching, personalized dashboards, and accessibility-first design.
 
+<img width="1833" height="695" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/c298e401-4c0b-4a31-8bde-77719e31cd25" />
+
+
 ## 💻 Tech Stack
 
 - **Backend**: Python (Flask), SQLAlchemy
